@@ -3,4 +3,4 @@ Renald Resolusi
 - Paham dalam agama
 - Paham dalam pemrograman
 - Paham dalam framework codeigniter
-- Mampu berbahasa inggris dengan lancar
+- Paham dalam framework laravel
