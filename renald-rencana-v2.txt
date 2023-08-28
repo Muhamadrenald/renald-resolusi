@@ -2,11 +2,12 @@ Rencana Renald Ke Dua
 - Lulus kuliah dengan hasil yang baik
   * Nilai yang baik
   * Cumlaude
-- Belajar Javascript
+- Javascript
   * ES6
   * Framework Javascript
-    ^ Vue
-    ^ React
-- PHP
+   ^ Vue
+   ^ Angular
+   ^ React
+- PHP Frameworks
+  * Codeigniter
 - Mendapat pekerjaan yang baik dengan gaji yang banyak
-- Menikah
