@@ -6,6 +6,7 @@ Rencana Renald Ke Dua
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - PHP
 - Mendapat pekerjaan yang baik dengan gaji yang banyak
 - Menikah
