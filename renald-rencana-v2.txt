@@ -5,6 +5,7 @@ Rencana Renald Ke Dua
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
    ^ Angular
    ^ React
 - PHP Frameworks
