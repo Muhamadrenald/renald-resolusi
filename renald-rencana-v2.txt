@@ -10,4 +10,5 @@ Rencana Renald Ke Dua
    ^ React
 - PHP Frameworks
   * Codeigniter
+  * Laravel
 - Mendapat pekerjaan yang baik dengan gaji yang banyak
